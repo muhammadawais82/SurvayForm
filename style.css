@@ -1,3 +1,18 @@
 body{
-    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #fff;
+}
+.container{
+    width: 100%;
+    max-width: 720px;
+    margin: 3.125rem auto 0 auto;
+    box-sizing: border-box;
+}
+header{
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+    text-align: center;
+    color: #000;
 }
